@@ -25,7 +25,7 @@
 |A0      |   Sig  |
 
 * 3D 모델입니다. 아래 사진을 클릭해 들어가서 다운로드 하면 바로 프린팅 할 수 있습니다. 사용하는 타이밍 벨트의 규격은 HTD 225 3m 에 폭은 15mm 기준 입니다. 
-[![](https://github.com/mtinet/arduino_electric_board/blob/gh-pages/timingPully_eletricBoard.png)](https://mtinet.github.io/arduino_electric_board/)  
+[![](https://raw.githubusercontent.com/mtinet/arduino_electric_board/master/arduino_electric_board.png)](https://mtinet.github.io/arduino_electric_board/)  
 
 
 
