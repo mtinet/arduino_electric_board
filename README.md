@@ -1,4 +1,4 @@
-# electric_board
+# arduino_electric_board
 
 * 조종기  
 
